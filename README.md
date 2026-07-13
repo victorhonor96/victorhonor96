@@ -39,9 +39,20 @@ Antes da engenharia civil, formei-me como **técnico em mecatrônica** e como **
 
 ### Onde me encontrar
 
-- 🌐 **Site / portfólio:** [victorhonorato.com.br](https://victorhonorato.com.br)
+- 🌐 **Site / portfólio:** [victorhonorato.com.br](https://victorhonorato.com.br) — artigos canônicos, formação e especialidades
+- ✍️ **Medium:** [@victor.honor96](https://medium.com/@victor.honor96) — artigos sobre engenharia forense, WTC e segurança
+- 🌐 **WordPress:** [victorborbasilva.wordpress.com](https://victorborbasilva.wordpress.com) — série de gamificação e segurança do trabalho
 - 💼 **LinkedIn:** [Victor Augusto Honorato Borba Silva](https://www.linkedin.com/in/victor-augusto-honorato-borba-silva-78614710a)
 - 📧 victor.honor96@gmail.com
+
+### Artigos em destaque
+
+- 🔍 [A engenharia forense: os olhos técnicos da justiça](https://victorhonorato.com.br/artigos/engenharia-forense-olhos-tecnicos-da-justica/)
+- 🏗️ [O maior legado do World Trade Center não foi o colapso](https://victorhonorato.com.br/artigos/o-maior-legado-do-wtc/)
+- 🎮 [Fundamentos da gamificação na educação e segurança do trabalho](https://victorhonorato.com.br/artigos/fundamentos-gamificacao-seguranca-trabalho/)
+- 📊 [Resultados: redução de 40% nos acidentes e mudança cultural](https://victorhonorato.com.br/artigos/resultados-reducao-acidentes-mudanca-cultural/)
+
+> Coleção completa: [victorhonorato.com.br/artigos](https://victorhonorato.com.br/artigos/)
 
 ---
 
